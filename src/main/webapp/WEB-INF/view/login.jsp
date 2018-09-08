@@ -5,6 +5,8 @@
 <html lang="en">
 
 <head>
+
+
 	
 	<title>Login Page</title>
 	<meta charset="utf-8">
@@ -23,6 +25,8 @@
 <body>
 
 	<div>
+		
+		<a href="${pageContext.request.contextPath}/" class="text-primary" target="_blank" >Go to Home Page</a>
 		
 		<div id="loginbox" style="margin-top: 50px;"
 			class="mainbox col-md-3 col-md-offset-2 col-sm-6 col-sm-offset-2">
